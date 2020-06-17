@@ -3,39 +3,14 @@
   <a href="#" class="w3-bar-item w3-button">videos</a>
   <a href="#" class="w3-bar-item w3-button">tragedy death</a>
 ## THE LIFE OF KOBE BEAN BRYANT 
+Kobe Bean Bryant (/ˈkoʊbiː/ KOH-bee; August 23, 1978 – January 26, 2020) was an American professional basketball player. As a 
+shooting guard, Bryant entered the National Basketball Association (NBA) directly from high school, and played his entire 20-season professional career in the league with the Los Angeles Lakers. Bryant won many accolades: five NBA championships, 18-time All-Star, 15-time member of the All-NBA Team, 12-time member of the All-Defensive Team, 2008 NBA Most Valuable Player (MVP), two-time NBA Finals MVP winner. Widely regarded as one of the greatest players of all time,[3][4][5][6] he led the NBA in scoring during two seasons, ranks fourth on the league's all-time regular season scoring and all-time postseason scoring lists.
 
+Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Upon graduation, he declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; the Hornets then traded him to the Lakers. As a rookie, Bryant earned himself a reputation as a high-flyer and a fan favorite by winning the 1997 Slam Dunk Contest, and he was named an All-Star by his second season.
  
 
  
-Table of Contents	
-Kobe Bryant Biography Facts, Age, Nickname, Family, Wife
-Full Name: Kobe Bean Bryant
-Nickname: Employee #8, Kob-me, The Dagger, Izzo, Mr. 81, Black Mamba, KB8, Three rings, KB-24
-Born: August 23, 1978
-Place of Birth: Philadelphia, Pennsylvania
-Died: January 26, 2020 (at age 41)
-Nationality: American
-Height: 6 feet 5 inches
-Shoe Size: 14
-Weight: 210 lb (96 kg)
-Education: Lower Merion High School
-Parents: Joe Bryant  (father), Pam Bryant (mother)
-Spouse: Vanessa Laine Bryant
-Siblings: Shaya Bryant (sister), Sharia Bryant (sister)
-Children: Capri Kobe Bryant, Bianka Bella Bryant, Gianna Maria-Onore Bryant, Natalia Diamante Bryant
-Net worth: $500 million
-Occupation: Ex-Basketball Player
-Retired Team: Los Angeles Lakers
-Jersey Number: #24
-Playing Career: 1996–2016
-Kobe Bryant Childhood Story & Early Life
-Kobe Bryant Childhood Photo
-Childhood Photo of young and promising Kobe Bryant. (Image credit: unknown)
-Born on August 23, 1978, in Philadelphia, Bryant is the youngest amongst the three children born to his father, Joe Bryant and mother, Pamela Cox Bryant. Bryant was named after a Japanese beef, Kobe, while his middle name Bean originates from his father’s nickname ‘jellybean’. When Bryant was at the age of six, his father retired from active play in the NBA and relocated to Italy where Bryant learnt Italian. During summer, Bryant returned to the USA to play basketball. His love for basketball may have been passed down from his father when he began playing at the young age of three.
-
-Bryant became known nationally after an incredible high school performance at Lower Merion High School, he went on to play for Lower Merion Varsity team and became the first freshman to start for the Lower Merion Varsity team. Bryant earned Pennsylvania Player of the Year honour in his junior year, which brought him offers from various college recruiters. He also participated in the Adidas ABCD Camp where he received a senior MVP award in 1995. Bryant led the Lakers after a 53-years drought, to their first state championship while in the senior year.
-
-He concluded his high school career on a remarkable note as Southeastern Pennsylvania’s all-time highest scorer with 2,883 points. He won several awards which include Men’s National Basketball Player of the Year, Naismith High School Player of the Year, and a McDonald’s All-American. Despite scoring 1080 in his SAT, Bryant decided to go pro after high school.  
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
