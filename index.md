@@ -3,7 +3,7 @@
 
 <div class="topnav" id="myTopnav">
   <a href="#home" class="active">Home</a>
-  <a href="#pictures">pictures</a>
+  <a href="pictures"">pictures</a>
   <a href="#videos">videos</a>
   <a href="#tragic death">tragic death</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -44,9 +44,13 @@ Bryant is the all-time leading scorer in Lakers franchise history. He was also t
 kobe winning his 5th championship!!!
 
 ![photo_8_smash](https://user-images.githubusercontent.com/67067669/84945076-a4d40800-b09b-11ea-9cdc-c81e87bf2a91.jpg)
-![fbceb6e74297c186c29f083432bc1199]
 kobe dunkinhg on former mvp steve nash
 
 
 ![bgq6lie02z831](https://user-images.githubusercontent.com/67067669/84945121-b7e6d800-b09b-11ea-940b-549cacded996.jpg)
 young kobe holding his first larry o brien trophy 1 of 5
+
+[1*Br_EmXZ-p1z8wQ67YyJyvw](https://user-images.githubusercontent.com/67067669/84951808-d05bf000-b0a5-11ea-8a45-9bff57f9021b.jpeg)
+![b0d310fc34f5a2392bb909b914fdb75c_crop_exact](https://user-images.githubusercontent.com/67067669/84951821-d81b9480-b0a5-11ea-9d4d-72977a5c3c47.jpg)
+
+
