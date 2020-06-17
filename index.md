@@ -18,6 +18,8 @@ shooting guard, Bryant entered the National Basketball Association (NBA) directl
 
 Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Upon graduation, he declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; the Hornets then traded him to the Lakers. As a rookie, Bryant earned himself a reputation as a high-flyer and a fan favorite by winning the 1997 Slam Dunk Contest, and he was named an All-Star by his second season.
  
+ https://en.wikipedia.org/wiki/Kobe_Bryant
+
 
  ![5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)
 ![90](https://user-images.githubusercontent.com/67067669/84943037-9e905c80-b098-11ea-9565-74f989065973.jpeg)
@@ -30,14 +32,22 @@ After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became t
 
 Bryant is the all-time leading scorer in Lakers franchise history. He was also the first guard in NBA history to play at least 20 seasons. His 18 All-Star designations are the second most all time, while it is the record for most consecutive appearances as a starter. Bryant's four All-Star MVP Awards are tied with Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s, and the epithet became widely adopted by the general public. At the 2008 and 2012 Summer Olympics, he won two gold medals as a member of the U.S. national team. In 2018, he won the Academy Award for Best Animated Short Film for his 2017 film Dear Basketball.
 
-### source from
+### source from https://en.wikipedia.org/wiki/Kobe_Bryant
 
 
-https://ahmed23206.github.io/kobe/pictures_.html
+
+### pictures
 
 
 
 ![f1d58cd60bfdc828464b0d4314df7acf](https://user-images.githubusercontent.com/67067669/84945032-94239200-b09b-11ea-862f-058abdbcc162.jpg)
+kobe winning his 5th championship!!!
+
 ![photo_8_smash](https://user-images.githubusercontent.com/67067669/84945076-a4d40800-b09b-11ea-9cdc-c81e87bf2a91.jpg)
-![fbceb6e74297c186c29f083432bc1199](https://user-images.githubusercontent.com/67067669/84945109-aef60680-b09b-11ea-9943-b5d7e86faafe.jpg)
+![fbceb6e74297c186c29f083432bc1199]
+kobe dunkinhg on former mvp steve nash
+(https://user-images.githubusercontent.com/67067669/84945109-aef60680-b09b-11ea-9943-b5d7e86faafe.jpg)
+young kobe showing heart on the court
+
 ![bgq6lie02z831](https://user-images.githubusercontent.com/67067669/84945121-b7e6d800-b09b-11ea-940b-549cacded996.jpg)
+young kobe holding his first larry o brien trophy 1 of 5
