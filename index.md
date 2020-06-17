@@ -34,3 +34,9 @@ Bryant is the all-time leading scorer in Lakers franchise history. He was also t
 
 https://en.wikipedia.org/wiki/Kobe_Bryant
 
+<a href="#pictures">pictures</a>
+
+![f1d58cd60bfdc828464b0d4314df7acf](https://user-images.githubusercontent.com/67067669/84945032-94239200-b09b-11ea-862f-058abdbcc162.jpg)
+![photo_8_smash](https://user-images.githubusercontent.com/67067669/84945076-a4d40800-b09b-11ea-9cdc-c81e87bf2a91.jpg)
+![fbceb6e74297c186c29f083432bc1199](https://user-images.githubusercontent.com/67067669/84945109-aef60680-b09b-11ea-9943-b5d7e86faafe.jpg)
+![bgq6lie02z831](https://user-images.githubusercontent.com/67067669/84945121-b7e6d800-b09b-11ea-940b-549cacded996.jpg)
