@@ -12,36 +12,14 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
  
   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### LAKER LEGACY
+After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became the cornerstone of the Lakers. He led the NBA in scoring during the 2005–06 and 2006–07 seasons. In 2006, he scored a career-high 81 points; the second most points scored in a single game in league history, behind Wilt Chamberlain's 100-point game in 1962. Bryant led the team to two consecutive championships in 2009 and 2010, and was named NBA Finals MVP on both occasions. He continued to be among the top players in the league through 2013, when he suffered a torn Achilles tendon at age 34. Although he recovered from that injury, he suffered season-ending injuries to his knee and shoulder, respectively, in the following two seasons. Citing his physical decline, Bryant retired after the 2015–16 season.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bryant is the all-time leading scorer in Lakers franchise history. He was also the first guard in NBA history to play at least 20 seasons. His 18 All-Star designations are the second most all time, while it is the record for most consecutive appearances as a starter. Bryant's four All-Star MVP Awards are tied with Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s, and the epithet became widely adopted by the general public. At the 2008 and 2012 Summer Olympics, he won two gold medals as a member of the U.S. national team. In 2018, he won the Academy Award for Best Animated Short Film for his 2017 film Dear Basketball.
 
-```markdown
-Syntax highlighted code block
+### life after basketball
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+https://en.wikipedia.org/wiki/Kobe_Bryant
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmed23206/kobe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
