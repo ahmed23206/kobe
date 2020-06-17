@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+ <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#" class="w3-bar-item w3-button">images</a>
+  <a href="#" class="w3-bar-item w3-button">videos</a>
+  <a href="#" class="w3-bar-item w3-button">tragedy death</a>
+## THE LIFE OF KOBE BEAN BRYANT 
 
 You can use the [editor on GitHub](https://github.com/ahmed23206/kobe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
