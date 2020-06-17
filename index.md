@@ -52,7 +52,7 @@ young kobe holding his first larry o brien trophy 1 of 5
 
 ![images-2](https://user-images.githubusercontent.com/67067669/84955255-cfc65800-b0ab-11ea-8b29-9ea4a21135f0.jpeg)
 
-kobe  shooting a game winner over future hall of famer 
+kobe  shooting a game winner over future hall of famer dwayne wade
 
 ![1*Br_EmXZ-p1z8wQ67YyJyvw](https://user-images.githubusercontent.com/67067669/84951808-d05bf000-b0a5-11ea-8a45-9bff57f9021b.jpeg) kobe showing both sides as a player the growth of his game from 8 ton 24
 
