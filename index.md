@@ -3,7 +3,7 @@
 
 <div class="topnav" id="myTopnav">
   <a href="#home" class="active">Home</a>
-  <a href="#pictures">pictures</a>
+  <a href="pictures_.html">pictures</a>
   <a href="#videos">videos</a>
   <a href="#tragic death">tragic death</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -35,7 +35,7 @@ Bryant is the all-time leading scorer in Lakers franchise history. He was also t
 
 https://en.wikipedia.org/wiki/Kobe_Bryant
 
-https://ahmed23206.github.io/kobe/#pictures
+
 
 ![f1d58cd60bfdc828464b0d4314df7acf](https://user-images.githubusercontent.com/67067669/84945032-94239200-b09b-11ea-862f-058abdbcc162.jpg)
 ![photo_8_smash](https://user-images.githubusercontent.com/67067669/84945076-a4d40800-b09b-11ea-9cdc-c81e87bf2a91.jpg)
