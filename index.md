@@ -16,7 +16,7 @@
   <li><a href="#">home</a></li>
   <li><a href="#">pictures</a></li>
   <li><a href="#">videos</a></li>
-  <li><a href="#">tragic deathP</a></li>
+  <li><a href="#">tragic death</a></li>
 </ul>
 
 ## THE LIFE OF KOBE BEAN BRYANT 
