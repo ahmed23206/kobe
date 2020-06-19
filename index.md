@@ -25,6 +25,7 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
  ![5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)
 ![90](https://user-images.githubusercontent.com/67067669/84943037-9e905c80-b098-11ea-9565-74f989065973.jpeg)
 
+<body style="background-color:powderblue;">
   
 
 
@@ -38,7 +39,7 @@ Bryant is the all-time leading scorer in Lakers franchise history. He was also t
 
 ### pictures
 
-<body style="background-color:powderblue;">
+
 
 
 ![f1d58cd60bfdc828464b0d4314df7acf](https://user-images.githubusercontent.com/67067669/84945032-94239200-b09b-11ea-862f-058abdbcc162.jpg)
