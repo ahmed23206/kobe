@@ -38,6 +38,7 @@ Bryant is the all-time leading scorer in Lakers franchise history. He was also t
 
 ### pictures
 
+<body style="background-color:powderblue;">
 
 
 ![f1d58cd60bfdc828464b0d4314df7acf](https://user-images.githubusercontent.com/67067669/84945032-94239200-b09b-11ea-862f-058abdbcc162.jpg)
