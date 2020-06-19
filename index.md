@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 
 ## THE LIFE OF KOBE BEAN BRYANT 
 Kobe Bean Bryant (/ˈkoʊbiː/ KOH-bee; August 23, 1978 – January 26, 2020) was an American professional basketball player. As a 
