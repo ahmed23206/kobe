@@ -58,8 +58,10 @@ kobe  shooting a game winner over future hall of famer dwayne wade
 
 ![1*Br_EmXZ-p1z8wQ67YyJyvw](https://user-images.githubusercontent.com/67067669/84951808-d05bf000-b0a5-11ea-8a45-9bff57f9021b.jpeg) kobe showing both sides as a player the growth of his game from 8 ton 24
 
+### source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
 
 
 
-
+###videos
+https://www.youtube.com/watch?v=oUOkJDnn9qA
 
