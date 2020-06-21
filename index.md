@@ -63,5 +63,12 @@ kobe  shooting a game winner over future hall of famer dwayne wade
 
 
 ###videos
-https://www.youtube.com/watch?v=oUOkJDnn9qA
+<object width="425" height="350">
+  <param name="https://www.youtube.com/watch?v=y64OsZNYhp0" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 
