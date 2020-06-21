@@ -22,7 +22,7 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
 #### source from https://en.wikipedia.org/wiki/Kobe_Bryant
  
  
- <body style="background-color:#FF0000;">
+ <body style="background-color:#030101;">
 </body>
 
 
