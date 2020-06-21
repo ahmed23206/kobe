@@ -30,7 +30,7 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
 ![90](https://user-images.githubusercontent.com/67067669/84943037-9e905c80-b098-11ea-9565-74f989065973.jpeg)
 
 
-# source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
+##### source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
 
 
 
