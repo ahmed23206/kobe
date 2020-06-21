@@ -27,6 +27,10 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
 ![90](https://user-images.githubusercontent.com/67067669/84943037-9e905c80-b098-11ea-9565-74f989065973.jpeg)
 
 
+### source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
+
+
+
 
 
 ### LAKER LEGACY
@@ -81,3 +85,35 @@ kobe scored 60 points at the end of career to say goodbye! such a sad game but o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9NILK4OXpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 kobe had a legendary game dropping 81 points on the tronto raptors he had himself a night on jalen rose he couldnt be tamed or stopped the black mamba one of the most prolific scorers ever!!
+
+### source from https://www.youtube.com/results?search_query=kobe+bryant+
+
+
+
+
+
+
+## tragic death
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lh2nDx2GLlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Los Angeles Lakers legend Kobe Bryant and his 13-year-old daughter, Gianna, were tragically killed in a helicopter crash. Michael Rosenberg reflects on the loss for Bryant's family, the NBA and the world.
+
+Thirteen-year-old Gianna Bryant and her father are gone, and that is not quite how the Bryants' story will be told, but it’s how we should think about it first. We all get one life, none more important than any other. Gianna did not have the chance to live hers, and the sadness is unbearable. For her mom, Vanessa, and for her sisters Natalia, Bianka and Capri, there will be a million tributes, and all will be insufficient. What do you say? What does it matter?
+
+Their thoughts are theirs, to form over time, and to share only if they ever feel the desire. Our thoughts about the Bryant family should start with Gianna, and nobody understood that better than Kobe Bryant.
+
+From a distance, especially when he was young, Kobe was easy to caricature as the kind of man who would only be happy raising a boy, and then, only a boy like him. He was legendarily competitive, the most committed athlete in his sport, a proud and self-described “alpha male” who had an uneven relationship with his own father. But one reason Kobe Bryant was so alluring was that he didn’t just do what society expected him to do. He coached girls’ basketball and became perhaps the sport’s most prominent fan. He told Jimmy Kimmel that when strangers said he needed a son to carry his legacy, he had a quick answer: Gianna could handle it herself.
+
+
+### source from https://www.youtube.com/results?search_query=kobe+bryant+ https://www.si.com/nba/2020/01/26/kobe-bryant-death-daughter-gianna-lakers-tragedy
+
+
+
+
+
+
+
+
+
