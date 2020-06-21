@@ -11,8 +11,7 @@
   </a>
 </div>
 
-  <body style="background-color:##8B0000;”>
-</body>
+  
   
 ## THE LIFE OF KOBE BEAN BRYANT 
 Kobe Bean Bryant (/ˈkoʊbiː/ KOH-bee; August 23, 1978 – January 26, 2020) was an American professional basketball player. As a 
@@ -21,6 +20,10 @@ shooting guard, Bryant entered the National Basketball Association (NBA) directl
 Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Upon graduation, he declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; the Hornets then traded him to the Lakers. As a rookie, Bryant earned himself a reputation as a high-flyer and a fan favorite by winning the 1997 Slam Dunk Contest, and he was named an All-Star by his second season.
  
  https://en.wikipedia.org/wiki/Kobe_Bryant
+ 
+ 
+ <body style="background-color:#FF0000;">
+</body>
 
 
  ![5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)
