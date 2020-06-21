@@ -19,7 +19,7 @@ shooting guard, Bryant entered the National Basketball Association (NBA) directl
 
 Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Upon graduation, he declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; the Hornets then traded him to the Lakers. As a rookie, Bryant earned himself a reputation as a high-flyer and a fan favorite by winning the 1997 Slam Dunk Contest, and he was named an All-Star by his second season.
  
- https://en.wikipedia.org/wiki/Kobe_Bryant
+#### source from https://en.wikipedia.org/wiki/Kobe_Bryant
  
  
  <body style="background-color:#FF0000;">
@@ -41,7 +41,7 @@ After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became t
 
 Bryant is the all-time leading scorer in Lakers franchise history. He was also the first guard in NBA history to play at least 20 seasons. His 18 All-Star designations are the second most all time, while it is the record for most consecutive appearances as a starter. Bryant's four All-Star MVP Awards are tied with Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s, and the epithet became widely adopted by the general public. At the 2008 and 2012 Summer Olympics, he won two gold medals as a member of the U.S. national team. In 2018, he won the Academy Award for Best Animated Short Film for his 2017 film Dear Basketball.
 
-# source from https://en.wikipedia.org/wiki/Kobe_Bryant
+#### source from https://en.wikipedia.org/wiki/Kobe_Bryant
 
 
 ### pictures
@@ -65,7 +65,7 @@ kobe  shooting a game winner over future hall of famer dwayne wade
 
 ![1*Br_EmXZ-p1z8wQ67YyJyvw](https://user-images.githubusercontent.com/67067669/84951808-d05bf000-b0a5-11ea-8a45-9bff57f9021b.jpeg) kobe showing both sides as a player the growth of his game from 8 ton 24
 
-# source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
+#### source from https://www.google.com/search?q=google+images+kobe&rlz=1C5CHFA_enUS877US897&sxsrf=ALeKk03JNeK9wdTlNQk-f5GpsdMNkBsxBw:1592691239902&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwgt2ctZHqAhWoGTQIHXRgBjUQ_AUoAXoECA8QAw&biw=1440&bih=789
 
 
 
@@ -89,7 +89,7 @@ kobe scored 60 points at the end of career to say goodbye! such a sad game but o
 
 kobe had a legendary game dropping 81 points on the tronto raptors he had himself a night on jalen rose he couldnt be tamed or stopped the black mamba one of the most prolific scorers ever!!
 
-# source from https://www.youtube.com/results?search_query=kobe+bryant+
+#### source from https://www.youtube.com/results?search_query=kobe+bryant+
 
 
 
@@ -110,7 +110,7 @@ Their thoughts are theirs, to form over time, and to share only if they ever fee
 From a distance, especially when he was young, Kobe was easy to caricature as the kind of man who would only be happy raising a boy, and then, only a boy like him. He was legendarily competitive, the most committed athlete in his sport, a proud and self-described “alpha male” who had an uneven relationship with his own father. But one reason Kobe Bryant was so alluring was that he didn’t just do what society expected him to do. He coached girls’ basketball and became perhaps the sport’s most prominent fan. He told Jimmy Kimmel that when strangers said he needed a son to carry his legacy, he had a quick answer: Gianna could handle it herself.
 
 
-# source from https://www.youtube.com/results?search_query=kobe+bryant+ https://www.si.com/nba/2020/01/26/kobe-bryant-death-daughter-gianna-lakers-tragedy
+#####  source from https://www.youtube.com/results?search_query=kobe+bryant+ https://www.si.com/nba/2020/01/26/kobe-bryant-death-daughter-gianna-lakers-tragedy
 
 
 
