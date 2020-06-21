@@ -5,7 +5,7 @@
   <a href="#home" class="active">Home</a>
   <a href="#pictures">pictures</a>
   <a href="#videos">videos</a>
-  <a href="#tragic death">tragic death</a>
+  <a href="#tragicdeath">tragicdeath</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
