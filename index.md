@@ -74,3 +74,10 @@ kobe  shooting a game winner over future hall of famer dwayne wade
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y64OsZNYhp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+kobe scored 60 points at the end of career to say goodbye! such a sad game but one that we all will never forget.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9NILK4OXpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+kobe had a legendary game dropping 81 points on the tronto raptors he had himself a night on jalen rose he couldnt be tamed or stopped the black mamba one of the most prolific scorers ever!!
